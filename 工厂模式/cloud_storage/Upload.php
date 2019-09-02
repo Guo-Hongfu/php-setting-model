@@ -11,7 +11,7 @@ namespace cloud_storage;
 /**
  * Class Upload
  * @package cloud_storage
- * 定义一个公共上传的抽象类
+ * 定义一个抽象父类
  */
 abstract class Upload
 {
