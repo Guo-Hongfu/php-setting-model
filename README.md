@@ -1,4 +1,4 @@
-# php-setting-model [个人博客](https://www.guohongfu.top?s=github)
+# php-setting-model [个人博客](https://www.guohongfu.top/?l=github)
 
 PHP的设计模式
 
