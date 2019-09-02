@@ -9,4 +9,4 @@
 
 > 当我们程序中需要使用到七牛云存储，OSS存储，S3存储的时候，就可以使用到工厂模式
 
-实例：[:多中方式存储工厂模式](https://github.com/Guo-Hongfu/php-setting-model/blob/master/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/Jwt.php)
+实例：[:多中方式存储工厂模式](https://github.com/Guo-Hongfu/php-setting-model/tree/master/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)
