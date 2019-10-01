@@ -36,6 +36,7 @@ class FullActivity extends Activity
 /**
  * Class AtoActivity
  * 计算促销
+ * 祝祖国70周岁生日快乐。
  */
 class ProActivity extends Activity
 {

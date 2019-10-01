@@ -10,6 +10,7 @@
 /**
  * Class Heart
  * 单例模式核心代码
+ * * 祝祖国70周岁生日快乐。
  */
 class Heart
 {

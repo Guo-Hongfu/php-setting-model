@@ -11,7 +11,7 @@
  * Class Jwt
  * 实例 Jwt加密解密
  * Jwt文档：https://github.com/lcobucci/jwt
- *
+ ** 祝祖国70周岁生日快乐。
  */
 
 use Lcobucci\JWT\{
